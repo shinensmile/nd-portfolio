@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Olowo Osaize Lazarus | Petroleum Engineering Technologist & Innovator</title>
+  <meta name="description" content="Portfolio of Olowo Osaize Lazarus — Petroleum Engineering Technologist, inventor of the Niger Delta Survivor, ND-GLO, ND-RIP, ND-Amahor, and the 5A Autonomous Loop. SPE Nigeria Council Patent Recognition applicant.">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+
+  <nav id="navbar">
+    <div class="nav-container">
+      <div class="logo">OOL<span>Portfolio</span></div>
+      <ul class="nav-links" id="navLinks">
+        <li><a href="#home" class="active">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#innovations">Innovations</a></li>
+        <li><a href="#publications">Recognition</a></li>
+        <li><a href="#blog">Insights</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+      <button class="mobile-menu-btn" id="mobileMenuBtn"><i class="fas fa-bars"></i></button>
+    </div>
+  </nav>
+
+  <section class="hero" id="home">
+    <div class="hero-container">
+      <div class="hero-content">
+        <div class="tagline"><i class="fas fa-award"></i> SPE Nigeria Council Patent Recognition Program</div>
+        <h1>Engineering the <span class="highlight">Niger Delta</span><br>Production Future</h1>
+        <p class="subtitle">
+          Petroleum Engineering Technologist. Inventor of 5 integrated production optimization technologies 
+          for marginal fields. Bridging downhole hardware, surface gas-lift systems, AI-native artificial lift, 
+          and autonomous reservoir intelligence.
+        </p>
+        <div class="hero-btns">
+          <a href="#innovations" class="btn btn-primary"><i class="fas fa-rocket"></i> Explore Innovations</a>
+          <a href="ND-Portfolio.pdf" class="btn btn-outline" download><i class="fas fa-file-pdf"></i> Download Portfolio</a>
+        </div>
+        <div class="hero-stats">
+          <div class="stat-item">
+            <div class="stat-number">5</div>
+            <div class="stat-label">Patent-Pending Innovations</div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-number">3</div>
+            <div class="stat-label">SPE Patent Applications</div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-number">Growth</div>
+            <div class="stat-label">Seeking Growth Capital</div>
+          </div>
+        </div>
+      </div>
+      <div class="hero-visual">
+        <div class="hero-ring">
+          <div class="hero-ring-inner">
+            <div class="hero-initials">OOL</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
